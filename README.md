@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fedeshadow
 - 📚 I'm a Management Engineer, currently studying for a master's in Data science
 - 👀 I’m interested in Data Analysis, ML, Blockchain, DeFi
-- ⌨️ 2 year experienced Python programmer
+- ⌨️ 2 year experienced Python developer
 - 🌱 I’m currently learning Solidity and Python modules for Data Science
 
 <!---
