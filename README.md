@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fedeshadow
-- 📚 I'm a Management Engineer, currently enrolled in a MSc in Data Science
+- 📚 I'm a currently enrolled in a MSc in Data Science
 - 👀 I’m interested in Data Analysis, Machine Learning, Blockchain and DeFi
 - ⌨️ 5 year experienced Python developer
 - 🌱 I’m currently learning AWS and PySpark
