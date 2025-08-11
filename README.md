@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Fedeshadow
-- 📚 I'm a currently enrolled in a MSc in Data Science
+Hi, I’m @Fedeshadow
+- 📚 Data Scientist
 - 👀 I’m interested in Data Analysis, Machine Learning, Blockchain and DeFi
-- ⌨️ 5 year experienced Python developer
-- 🌱 I’m currently learning AWS and PySpark
+- ⌨️ Python developer
+
 
 On this page, you will find information about my background, experience, and projects.\
 You can also find my resume and contact information on LinkedIn.
 
-My primary focus is on Business Analytics, Data Mining and Data Visualization.\
+My primary focus is on GenAI, Machine Learning and Data Visualization.\
 However, I am highly adaptable and capable of quickly learning new technologies, tools and techniques. I am constantly seeking new challenges and opportunities to expand my knowledge and skillset. I believe that continuous learning is a key aspect of being a great data scientist and I strive to stay current with the latest advancements in the field.
 
 Contacts:\
@@ -20,14 +20,13 @@ I'm comfortable working with:
 * [![Pandas][pandas]][pandas-url]
 * [![Plotly][Plotly]][Plotly-url]
 * [![scikit][scikit]][scikit-url]
-* [![R][R]][R-url]
 * [![Linux][Linux]][Linux-url]
 * [![SQL][SQL]][SQL-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+* [![Neo][Neo]][Neo-url]
 
 Bunch of different technologies I'm learning or I've played with in the past:
 
-
+[![MongoDB][MongoDB]][MongoDB-url]
 [![Apa][Apa]][Apa-url]
 [![torch][torch]][torch-url]
 [![AWS][AWS]][AWS-url]
@@ -35,8 +34,8 @@ Bunch of different technologies I'm learning or I've played with in the past:
 [![S3][S3]][AWS-url]
 [![GCP][GCP]][GCP-url]
 [![Solidity][Solidity]][Solidity-url]
-[![ETH][ETH]][ETH-url]
 [![Binance][Binance]][Binance-url]
+[![R][R]][R-url]
 
 
 
@@ -61,6 +60,8 @@ Bunch of different technologies I'm learning or I've played with in the past:
 
 [AWS]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
+[Neo]: https://img.shields.io/badge/Neo4j-014063?style=for-the-badge&logo=neo4j&logoColor=white
+[Neo-url]: https://neo4j.com/
 [EC2]: https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white
 [S3]: https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white
 [GCP]: https://img.shields.io/badge/Google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
